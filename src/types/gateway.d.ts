@@ -1,4 +1,4 @@
-namespace Gateway {
+declare namespace Gateway {
   export interface Timed {
     created_at: string;
     updated_at: string;

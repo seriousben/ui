@@ -1,4 +1,4 @@
-namespace Marketplace {
+declare namespace Marketplace {
   export interface UpdateCredential {
     body: UpdateCredentialBody;
   }
